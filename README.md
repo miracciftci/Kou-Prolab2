@@ -2,4 +2,4 @@
 Kocaeli Üniversitesi 2021-2022 programlama laboratuvarı 2 projesi
 
 ### Banka Sistemi
-Bu proje kapsamında Bankaya Para Yatırmak, Para Çekme, Para Transferi gibi bir çok özelliğin olduğu mini banka projesi geliştirdik. Kullanıcıların yetkilendirildiği Admin Panel arayüzü yapıldı. Projede backend’de Java, Arayüz’de Swing, DB için Mysql kullanıldı.
+Bu proje kapsamında Bankaya Para Yatırmak, Para Çekme, Para Transferi gibi bir çok özelliğin olduğu mini banka projesi geliştirdik. Kullanıcıların yetkilendirildiği Admin Panel arayüzü yapıldı. Üç ayrı giriş bulunmakta banka müdürü, banka çalışanı ve müşteri olmak üzere.Her ayrı girişin kendine özel birçok yetki alanı bulunmakta. Projede backend’de Java, Arayüz’de Swing, DB için Mysql kullanıldı.
